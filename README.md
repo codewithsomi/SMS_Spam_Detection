@@ -39,3 +39,5 @@ To run this project locally, follow these steps:
 Install the required dependencies:
 ```python
 pip install -r requirements.txt
+```
+to be continued...
